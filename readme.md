@@ -1,4 +1,4 @@
-# JobSeekr V2
+# JobSeekr
 JobSeekr is website app that is built for job seeker to easily find a job and recruiter to advertise their job.
 
 ### Run it, facing error?
