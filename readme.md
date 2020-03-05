@@ -1,5 +1,5 @@
 # JobSeekr V2
-This is a rewrited, enhanced version of [JobSeekr](https://github.com/vayupranaditya/jobseekr).
+JobSeekr is website app that is built for job seeker to easily find a job and recruiter to advertise their job.
 
 ### Run it, facing error?
 Sure! You need to set up few things first.
